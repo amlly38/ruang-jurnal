@@ -112,10 +112,6 @@ Contributions are welcome! Please follow these steps:
 3.  Make your changes and commit them with descriptive messages.
 4.  Submit a pull request.
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## 📬 Contact
 
 If you have any questions or suggestions, feel free to contact me at [amaliyahamel0304@gmail.com](mailto:amaliyahamel0304@gmail.com).
@@ -123,3 +119,4 @@ If you have any questions or suggestions, feel free to contact me at [amaliyaham
 ## 💖 Thanks
 
 Thank you for using and contributing to the Journal Management System!
+
